@@ -1,0 +1,8 @@
+{
+  "appId": "com.flm.app",
+  "appName": "fedorable-life-mobile",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
